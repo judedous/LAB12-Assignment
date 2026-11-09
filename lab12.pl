@@ -1,5 +1,4 @@
 % Facts
-
 edge('Dammam', 'Qatif').
 edge('Dammam', 'Riyadh').
 edge('Riyadh', 'Dammam').
